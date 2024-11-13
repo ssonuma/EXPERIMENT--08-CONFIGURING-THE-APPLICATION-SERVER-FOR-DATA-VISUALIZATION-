@@ -1,4 +1,4 @@
-# EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
+# EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION- 
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
@@ -30,6 +30,10 @@ As the application server market matures, high performance becomes a stronger cr
 ## OUTPUT 
  
 ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+![Screenshot 2024-10-28 083932](https://github.com/user-attachments/assets/0d72f040-a486-4f75-a248-55482c85e149)
+![Screenshot 2024-10-28 083955](https://github.com/user-attachments/assets/9e9f60c3-eab7-4cba-8bd1-bdca104bf56e)
+![Screenshot 2024-10-28 090310](https://github.com/user-attachments/assets/7bde39d8-6076-4d86-9d09-38553bc07217)
+
 
 
 
